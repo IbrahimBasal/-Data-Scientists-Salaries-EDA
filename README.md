@@ -9,10 +9,10 @@ The project is about salaries of data scientists, machine learning enginners, da
 
 # Screenshots
 
-![download](https://user-images.githubusercontent.com/71732836/184958390-844e0cd4-d031-4a41-aa48-e5d905bbb552.png)
+![Screenshot 2022-08-16 205847](https://user-images.githubusercontent.com/71732836/184960315-269150a6-2512-4329-a544-6099e87bde3b.png)
 
 
-![download (1)](https://user-images.githubusercontent.com/71732836/184958819-839848da-80fb-4b00-9069-6cafe098f14c.png)
+![Screenshot 2022-08-16 205936](https://user-images.githubusercontent.com/71732836/184960391-c59405de-f3cb-4b66-9944-ba6beb3d2f24.png)
 
 
-![download (2)](https://user-images.githubusercontent.com/71732836/184958847-d77665b6-5440-43e6-ba90-58e4b209f5c0.png)
+![Screenshot 2022-08-16 205918](https://user-images.githubusercontent.com/71732836/184960417-2e06d7f4-5e64-47a1-bae1-919d5b41fe3e.png)
